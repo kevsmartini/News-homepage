@@ -5,6 +5,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/new-homepage-Dyux68FE3-)
+- Live Site URL: [Live site URL here](https://kevsmartini.github.io/News-homepage/)
 
